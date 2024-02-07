@@ -1,0 +1,129 @@
+.{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2581397.jpg);
+    background-size: 100%;
+}
+nav h1{
+    background-color:aqua;
+line-height:75px;
+font-size: 40px;
+padding-left: 10px;
+
+}
+
+nav ul{
+float:right;
+}
+nav ul li{
+float:left;
+list-style: none;
+position:relative;
+top:-90px;
+padding-inline: 50px;
+
+}
+nav ul li ul{
+position:absolute;
+display:none;
+background-color: aqua;
+
+}
+nav ul li ul li{
+line-height:2;
+width:100px;
+height:120px;
+top:30px;
+
+}
+nav ul li ul li a{
+padding:5px 10px;
+text-decoration:  none;
+}
+
+nav ul li:hover ul{
+display:block;
+}
+
+#one{
+    color:blue;
+    font-size:25px;
+    font-family:sans-serif;
+    text-align: center;
+    margin-left:25%;
+    margin-right: 25%;
+}
+h3{
+    
+    margin-left: 25%;
+    margin-top:40px;
+}
+#two{
+    color:black;
+    font-size:25px;
+    font-family:sans-serif;
+    word-spacing:10px;
+    
+}
+.two{
+    
+    image-resolution: auto;
+    display: inline-block;
+    flex-wrap: wrap;
+padding-inline: 100px;
+}
+#three{
+    font-size:25px;
+    font-family: sans serif;
+    color:black;
+    text-align: center;
+    margin:25px;
+}
+#four{
+    font-size:25px;
+    font-family: sans serif;
+    color:black;
+    text-align: center; margin:25px;
+}
+#five{
+    font-size:25px;
+    font-family: sans serif;
+    color:black;
+    text-align: center; 
+}#six{
+    font-size:25px;
+    font-family: sans serif;
+    color:black;
+    text-align: center;margin:25px;
+}#seven{
+    font-size:25px;
+    font-family: sans serif;
+    color:black;
+    text-align: center;
+}.three {
+    text-align: center;
+    font-size: 140px;
+}.four{
+    text-align: center;
+    font-size: 140px;
+}
+.five {
+    text-align: center;
+    font-size: 140px;
+}
+.six{
+    text-align: center;
+    font-size: 140px;
+}
+.seven{
+    text-align: center;
+    font-size: 140px;
+}.eight{
+    text-align: center;
+    font-size: 140px;
+}
+
+
+
